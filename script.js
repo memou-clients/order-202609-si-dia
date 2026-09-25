@@ -6,66 +6,64 @@
 
 // --- USER CUSTOMIZATION CONFIG ---
 const BIRTHDAY_CONFIG = {
-  girlfriendName: "My Sweet Queen", // Change to girlfriend's real name!
-  nickname: "Princess of Bikini Bottom",
-  boyfriendName: "Your Loving Boyfriend ❤️",
-  birthdayDate: "Today",
-  
-  // Custom dialog quotes for the 3x3 Bamboo Grid Cast
-  castDialogues: {
-    spongebob: {
-      name: "SpongeBob SquarePants",
-      emoji: "🧽",
-      quote: "I'M READY! I'M READY! To wish the most wonderful, sweetest, and gorgeous girl in all of Bikini Bottom a HAPPY BIRTHDAY! You light up the entire ocean brighter than a fresh hot batch of Krabby Patties! Best girlfriend in the seven seas!",
-      sound: "sponge"
+  "girlfriendName": "Si Dia",
+  "nickname": "Paling Tulus",
+  "boyfriendName": "Si Paling Tulus",
+  "birthdayDate": "Kemarin",
+  "castDialogues": {
+    "spongebob": {
+      "name": "SpongeBob SquarePants",
+      "emoji": "🧽",
+      "quote": "I'M READY! I'M READY! To wish the most wonderful, sweetest, and gorgeous girl in all of Bikini Bottom a HAPPY BIRTHDAY! You light up the entire ocean brighter than a fresh hot batch of Krabby Patties! Best girlfriend in the seven seas!",
+      "sound": "sponge"
     },
-    patrick: {
-      name: "Patrick Star",
-      emoji: "⭐",
-      quote: "Is mayonnaise an instrument? No, but you are instrumental in making his heart happy every single day! I baked you a cake... wait, I accidentally ate it, but I brought you infinite love instead! Happy Birthday, best friend!",
-      sound: "boing"
+    "patrick": {
+      "name": "Patrick Star",
+      "emoji": "⭐",
+      "quote": "Is mayonnaise an instrument? No, but you are instrumental in making his heart happy every single day! I baked you a cake... wait, I accidentally ate it, but I brought you infinite love instead! Happy Birthday, best friend!",
+      "sound": "boing"
     },
-    krabs: {
-      name: "Mr. Eugene H. Krabs",
-      emoji: "🦀",
-      quote: "Ag-ag-ag-ag! Me boy struck pure 24-karat gold with you, lassie! I've hoarded doubloons, pearls, and diamonds, but you are worth more than all the treasure in the Pacific Ocean! Have a rich and happy birthday!",
-      sound: "coin"
+    "krabs": {
+      "name": "Mr. Eugene H. Krabs",
+      "emoji": "🦀",
+      "quote": "Ag-ag-ag-ag! Me boy struck pure 24-karat gold with you, lassie! I've hoarded doubloons, pearls, and diamonds, but you are worth more than all the treasure in the Pacific Ocean! Have a rich and happy birthday!",
+      "sound": "coin"
     },
-    squidward: {
-      name: "Squidward Tentacles",
-      emoji: "🐙",
-      quote: "Normally, I despise everyone's presence... but your boyfriend talks about you so much that even I have to admit, you two are undeniably adorable. Today, I dedicate this clarinet solo just for you. Happy Birthday!",
-      sound: "clarinet"
+    "squidward": {
+      "name": "Squidward Tentacles",
+      "emoji": "🐙",
+      "quote": "Normally, I despise everyone's presence... but your boyfriend talks about you so much that even I have to admit, you two are undeniably adorable. Today, I dedicate this clarinet solo just for you. Happy Birthday!",
+      "sound": "clarinet"
     },
-    sandy: {
-      name: "Sandy Cheeks",
-      emoji: "🐿️",
-      quote: "Yee-haw! Happy Birthday from Texas all the way down to Bikini Bottom! You're sharper, stronger, and sweeter than warm pecan pie on a Sunday afternoon! Keep being your awesome, incredible self!",
-      sound: "karate"
+    "sandy": {
+      "name": "Sandy Cheeks",
+      "emoji": "🐿️",
+      "quote": "Yee-haw! Happy Birthday from Texas all the way down to Bikini Bottom! You're sharper, stronger, and sweeter than warm pecan pie on a Sunday afternoon! Keep being your awesome, incredible self!",
+      "sound": "karate"
     },
-    gary: {
-      name: "Gary the Snail",
-      emoji: "🐌",
-      quote: "Meow! (Translation: You give the best head pats, the warmest cuddles, and you have the purest, kindest heart in the universe! Gary approves 100%!)",
-      sound: "meow"
+    "gary": {
+      "name": "Gary the Snail",
+      "emoji": "🐌",
+      "quote": "Meow! (Translation: You give the best head pats, the warmest cuddles, and you have the purest, kindest heart in the universe! Gary approves 100%!)",
+      "sound": "meow"
     },
-    plankton: {
-      name: "Sheldon J. Plankton & Karen",
-      emoji: "🔬",
-      quote: "CURSE YOU! Even with my supreme diabolical genius, I could never steal a secret formula as powerful as your boyfriend's devotion to you! Karen ran the calculations: You two are 10,000% soulmates!",
-      sound: "zap"
+    "plankton": {
+      "name": "Sheldon J. Plankton & Karen",
+      "emoji": "🔬",
+      "quote": "CURSE YOU! Even with my supreme diabolical genius, I could never steal a secret formula as powerful as your boyfriend's devotion to you! Karen ran the calculations: You two are 10,000% soulmates!",
+      "sound": "zap"
     },
-    pearl: {
-      name: "Pearl Krabs",
-      emoji: "🐳",
-      quote: "OMG, Coral! It's your birthday! You are literally the prettiest, most fashionable icon in all of Bikini Bottom! Daddy, hand over the credit card—this queen deserves the best gifts ever! Happy Birthday, gorgeous!",
-      sound: "cheer"
+    "pearl": {
+      "name": "Pearl Krabs",
+      "emoji": "🐳",
+      "quote": "OMG, Coral! It's your birthday! You are literally the prettiest, most fashionable icon in all of Bikini Bottom! Daddy, hand over the credit card—this queen deserves the best gifts ever! Happy Birthday, gorgeous!",
+      "sound": "cheer"
     },
-    puff: {
-      name: "Mrs. Poppy Puff",
-      emoji: "🐡",
-      quote: "Oh Neptune! You passed the official test with flying colors: Grade A+ on being the sweetest, most loving girlfriend in existence! No boat crashes today, only pure joy and celebration! Happy Birthday!",
-      sound: "honk"
+    "puff": {
+      "name": "Mrs. Poppy Puff",
+      "emoji": "🐡",
+      "quote": "Oh Neptune! You passed the official test with flying colors: Grade A+ on being the sweetest, most loving girlfriend in existence! No boat crashes today, only pure joy and celebration! Happy Birthday!",
+      "sound": "honk"
     }
   }
 };
